@@ -1,9 +1,9 @@
-# WMSUAPP 
-WMSUAPP is designed to help students stay organized, enhance their academic performance, and develop essential learning skills. With a streamlined and user-friendly experience, studying becomes more structured, efficient, and stress-free.
+# students-management 
+students-management is designed to help students stay organized, enhance their academic performance, and develop essential learning skills. With a streamlined and user-friendly experience, studying becomes more structured, efficient, and stress-free.
 > We're not affiliated on this school.
 
 # Coming soon!
-🚀 WMSUAPP – Key Features
+🚀 students-management – Key Features
 
 🔐 Secure Login & Registration
 Students can securely register and activate their accounts using their official Student ID for validation.
